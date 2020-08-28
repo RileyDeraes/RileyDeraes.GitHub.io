@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub "website"!
 
-You can use the [editor on GitHub](https://github.com/RileyDeraes/RileyDeraes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can view my [GitHub Account](https://github.com/RileyDeraes) here, if you would like to.
+I probably won't update this very often, it's only for the code I personally find most interesting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My online presence:
+I can be found just about anywhere under the name "RileyDeraes".
+Feel free to reach out if you have any questions!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interesting sites to keep handy:
+- [GitHub's Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
+- [My YouTube Channel](https://www.youtube.com/channel/UCfaKcF8374iFKSq30h3e5yA)
+- [My LinkedIn](https://www.linkedin.com/in/rileyderaes/)
 
 ```markdown
-Syntax highlighted code block
+I have a bunch of social media too, add me anywhere and everywhere!
+I don't bite, promise. 😂
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+I'll most likely use one of these two images as my profile picture:
+![Real life me](https://i.imgur.com/9xdsDG7.jpg?2) ![Memoji me](https://i.imgur.com/4296fAF.jpg?1)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RileyDeraes/RileyDeraes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+`Please don't steal the images though lol`
+_Also I'm just putting these here for fun_
+**Interesting, right?**
